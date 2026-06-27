@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/SSslider/solstice/releases/download/1.121.04075/Solstice-win32-x64-1.121.04075.zip",
-  "name": "1.121.04075",
-  "version": "e1e84b26fcd6343c01eeb99d633343e435ad3f90",
-  "productVersion": "1.121.4075.0",
-  "hash": "11f6b6c9a8f996af0b74e689e10f7a0de52b365c",
-  "timestamp": "1782519324339",
-  "sha256hash": "9bec554265537af197704767795c5754513fa19dc523e2cc82720b6e6a9e57c0"
+  "url": "https://github.com/SSslider/solstice/releases/download/1.121.04076/Solstice-win32-x64-1.121.04076.zip",
+  "name": "1.121.04076",
+  "version": "f64d41e28e71a5f0509022a73c22e13478ba6217",
+  "productVersion": "1.121.4076.0",
+  "hash": "b1b538cbb3180593bec57edea9aef2b6d7952809",
+  "timestamp": "1782579302108",
+  "sha256hash": "26735f36b991fe5537a97c629dcf63c165d95c689444cd1ef11fcf5c2698dee9"
 }
