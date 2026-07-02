@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/SSslider/solstice/releases/download/1.121.04086/Solstice-darwin-arm64-1.121.04086.zip",
-  "name": "1.121.04086",
-  "version": "07f9dd71d8d7168c39ca591c85b34f71264d7d4a",
-  "productVersion": "1.121.4086.0",
-  "hash": "348b57e283a3f46523577e975a7c3697a52429b1",
-  "timestamp": "1783009186202",
-  "sha256hash": "621c5e21ff53ec0d114071b2fbbbfd4f6952f7cd350999505e06e9abfc089f42"
+  "url": "https://github.com/SSslider/solstice/releases/download/1.121.04087/Solstice-darwin-arm64-1.121.04087.zip",
+  "name": "1.121.04087",
+  "version": "eb3de26033314ffadce70d24074317433e7c1ae6",
+  "productVersion": "1.121.4087.0",
+  "hash": "2e8bdca2c807735e37ee283b45e3f867b174e7b8",
+  "timestamp": "1783012914481",
+  "sha256hash": "5efad1700093d8798392c4b0c1e653ba9164379c60c778d603e8e3bb4255cd59"
 }
