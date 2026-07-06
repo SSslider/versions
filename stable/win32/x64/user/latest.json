@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/SSslider/solstice/releases/download/1.121.04088/SolsticeUserSetup-x64-1.121.04088.exe",
-  "name": "1.121.04088",
-  "version": "b134ef40cdf0c4c3d75611cb9b2471050aa4dde7",
-  "productVersion": "1.121.4088.0",
-  "hash": "01bfc5862fe95ed0c573fc069510d9d3055f43e2",
-  "timestamp": "1783014160102",
-  "sha256hash": "3e98eba886a1c10b6024a2ccaa886f6bb66e1d1125cc434ec46f7771ea9d9c7e"
+  "url": "https://github.com/SSslider/solstice/releases/download/1.121.04089/SolsticeUserSetup-x64-1.121.04089.exe",
+  "name": "1.121.04089",
+  "version": "dac72e2b0969cb70256ec5936f4037a556e830c3",
+  "productVersion": "1.121.4089.0",
+  "hash": "55da1b8525904e19575a1a7bc39dcb2ca7403452",
+  "timestamp": "1783364565150",
+  "sha256hash": "5249ee5bd5f0d0b0051ef00d4530c17d757fab06c272676f567862da8d714652"
 }
